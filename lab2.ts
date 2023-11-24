@@ -1,25 +1,5 @@
 function calculateGrade(score: number): string {
-    let grade: string;
-  
-    if (score >= 90) {
-      grade = "A";
-      if (score > 95) {
-        grade += "+";
-      }
-    } else if (score >= 80) {
-      grade = "B";
-    } else if (score >= 70) {
-      grade = "C";
-    } else if (score >= 60) {
-      grade = "D";
-    } else {
-      grade = "F";
-      if (score < 50) {
-        grade += "-";
-      }
-    }
-  
-    return grade;
+    //code here...
   }
   
   // Example usage
