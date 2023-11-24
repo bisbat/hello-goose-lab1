@@ -5,6 +5,6 @@ let productPrices: number[] = [25.99, 14.49, 32.75, 19.95, 45.30];
 
 // Your code here
 
-// Output: Discounted Prices: 23.39, 13.04, 29.48, 17.96, 40.77
+// Output: [ 23.391, 13.041, 29.475, 17.955, 40.769999999999996 ]
 ```
 Your task is to use the forEach() loop to iterate through the array of product prices, apply a 10% discount to each price, and display the discounted prices as shown in the comment.
