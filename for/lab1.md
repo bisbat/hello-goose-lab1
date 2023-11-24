@@ -1,5 +1,5 @@
 **Problem: Calculate Discounted Prices**<br>
-You are given an array of product prices. Write a TypeScript program or function that uses the forEach() loop to calculate and display the discounted price for each product. Apply a discount of 10% to each product.
+You are given an array of product prices. Write a TypeScript program or function that uses the forEach() loop to calculate and display the discounted price for each product. Apply a discount of 9% to each product.
 ```ts
 let productPrices: number[] = [25.99, 14.49, 32.75, 19.95, 45.30];
 
