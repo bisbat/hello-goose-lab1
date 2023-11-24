@@ -5,6 +5,6 @@ let temperaturesCelsius: number[] = [0, 10, 20, 30, 40];
 
 // Your code here
 
-// Output: Temperatures in Fahrenheit: 32, 50, 68, 86, 104
+// Output: [ 32, 50, 68, 86, 104 ]
 ```
 Your task is to use the map() method to create a new array temperaturesFahrenheit containing the converted temperatures. Display the result as shown in the comment.
