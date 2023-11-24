@@ -18,7 +18,8 @@ Constraints:
 The input temperature will be a number.
 
 # hello-goose-lab2
-Let's step up the challenge a bit. Here's a more complex problem:
+Let's step up the challenge a bit. Here's a more complex problem:<br>
+
 Problem:
 You are designing a grading system for a class. Write a TypeScript function called calculateGrade that takes a student's score as a percentage and returns a grade according to the following grading scale:
 
