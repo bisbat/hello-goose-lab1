@@ -14,6 +14,6 @@ let users: User[] = [
 
 // Your code here
 
-// Output: Formatted Full Names: John Doe, Alice Smith, Bob Johnson
+// Output: [ 'John Doe', 'Alice Smith', 'Bob Johnson' ]
 ```
 Your task is to use the map() method to create a new array formattedNames containing the full names formatted as shown in the comment. Each full name should be a combination of firstName and lastName, separated by a space.
